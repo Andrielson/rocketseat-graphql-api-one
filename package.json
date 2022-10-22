@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:andrielson/rocketseat-graphql-api-one.git",
   "author": "Andrielson Silva <andrielson@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  }
 }
