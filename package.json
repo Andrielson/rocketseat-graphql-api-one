@@ -1,0 +1,8 @@
+{
+  "name": "rocketseat-graphql-api-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrielson/rocketseat-graphql-api-one.git",
+  "author": "Andrielson Silva <andrielson@gmail.com>",
+  "license": "MIT"
+}
