@@ -1,8 +1,8 @@
 {
-  "name": "rocketseat-graphql-api-one",
+  "name": "rocketseat-graphql-api-schema-first",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:andrielson/rocketseat-graphql-api-one.git",
+  "repository": "git@github.com:andrielson/rocketseat-graphql-api-schema-first.git",
   "author": "Andrielson Silva <andrielson@gmail.com>",
   "license": "MIT",
   "scripts": {
